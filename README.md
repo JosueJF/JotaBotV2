@@ -1,13 +1,12 @@
 <p align="center">
 <img src="https://static.wikia.nocookie.net/kenja-no-mago/images/8/85/Sizilien_von_klode_1.jpg/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="128" height="128"/>
-© TERMINOS DE COPYRIGHT SPECIALWEEK ANTE LA MODIFICACION DE UNA SCRIPT | PERDIREMOS QUE CUMPLA LAS SIGUENTES NORMAS PARA EVITAR PROBLEMAS Y QUE TOMEMOS CARTAS EN EL ASUNTO.
+© TERMINOS DE COPYRIGHT ANTE LA MODIFICACION DE UNA SCRIPT | PERDIREMOS QUE CUMPLA LAS SIGUENTES NORMAS PARA EVITAR PROBLEMAS Y QUE TOMEMOS CARTAS EN EL ASUNTO
 
 
 - Deje de usar su imagen en nuestro producto
 
 - La script modificada sea eliminada
 
-- Que no vuelva a modificar ninguna script de SpecialWeek OFC (Todas las script seran encriptadas)
 
 - Al momento de cambiar la imagen del representante del "Bot" cuenta como Copyright y podemos tomar medidas en eso
 
@@ -18,11 +17,8 @@ No puedo permitir que uses tu imagen en nuestro producto por favor espero y enti
 Ante dudas puedes contactar con el creador
 
 —————————————
-Wa.me/50373488366
-—————————————
-@specialweek_kwi
-—————————————
-
+Wa.me/5511940001128
+———————————--
 ## Features
 
 | Sticker Creator |                Feature           |
